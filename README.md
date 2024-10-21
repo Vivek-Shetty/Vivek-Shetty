@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek-Shetty
 - 👀 I’m interested in ...Web development and open-source contributions.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Digital Marketing
 - 💞️ I’m looking to collaborate on ...open-source projects related to full-stack development and applications.
 - 📫 How to reach me ...You can find me on[LinkedIn](Vivek Nagaraj Shetty)0r drop me an email at vivekshetty3828@gmail.com.
 - 😄 Pronouns: ...He/Him
